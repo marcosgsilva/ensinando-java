@@ -2,7 +2,8 @@ Esse projeto tem como principal objetivo ensinar meu irmão e ajudá-lo a entrar
 
 1. Quero Lapidar no primeiro momento a orientação objetos, como primeiro desafio completar o que falta no doiagrama abaixo e a lógica de programação.
 
-![image](https://github.com/user-attachments/assets/0d4474ae-d2be-4451-802e-6f45dcc1cda0)
+![image](https://github.com/user-attachments/assets/ac1c0dc4-145e-4c07-8636-27d77d77b762)
+
 
 2. Após isso entraremos no Modelo MVC usando RestAPI com foco na camada de serviço.
 
