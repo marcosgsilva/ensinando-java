@@ -1,3 +1,8 @@
+VERSÃO JAVA 17
+Intellij
+
+
+
 Esse projeto tem como principal objetivo ensinar meu irmão e ajudá-lo a entrar no mercado de Programação com Java, espero que ajude outra pessoas também:
 
 1. Quero Lapidar no primeiro momento a orientação objetos, como primeiro desafio completar o que falta no doiagrama abaixo e a lógica de programação.
